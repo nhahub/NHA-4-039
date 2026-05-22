@@ -27,15 +27,15 @@ This project analyzes Brazilian e-commerce data from Olist, a marketplace connec
 - **Forecast Growth:** $69,572 per month
 
 ## Repository Structure
-NHA-4-039/
-├── dashboard/
-├── docs/
-├── forecasting/
-├── notebooks/
-├── sql/
-├── .gitignotr
-├── README.md
-└── requirements.txt
+NHA-4-039/  
+├── dashboard/  
+├── docs/  
+├── forecasting/  
+├── notebooks/  
+├── sql/  
+├── .gitignore
+├── README.md  
+└── requirements.txt  
 
 
 ## Author
