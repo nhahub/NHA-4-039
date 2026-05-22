@@ -33,7 +33,7 @@ NHA-4-039/
 ├── forecasting/  
 ├── notebooks/  
 ├── sql/  
-├── .gitignore
+├── .gitignore  
 ├── README.md  
 └── requirements.txt  
 
