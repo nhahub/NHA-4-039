@@ -1,0 +1,34 @@
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# Data files (large)
+data/raw/
+data/cleaned/
+*.csv
+*.xlsx
+*.xls
+*.db
+*.sqlite
+
+# But keep sample data
+!data/sample/
+
+# Environment
+.env
+venv/
+env/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db

@@ -1,0 +1,13 @@
+-- =====================================================
+-- MASTER FILE: Run All 18 Business Questions
+-- =====================================================
+-- 
+-- Execute each file separately in order:
+-- 1. 01_revenue_sales.sql
+-- 2. 02_geographic.sql
+-- 3. 03_reviews.sql
+-- 4. 04_payments.sql
+-- 5. 05_delivery.sql
+--
+-- Or run individual queries as needed.
+-- =====================================================
