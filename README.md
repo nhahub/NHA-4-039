@@ -20,7 +20,7 @@ This project analyzes Brazilian e-commerce data from Olist, a marketplace connec
 - **Power BI** - Interactive dashboard
 
 ## Top Insights
-- **Best Category:** health_beauty ($2.1M revenue)
+- **Best Category:** health_beauty ($1.4M revenue)
 - **Best State:** São Paulo (SP) - 45% of revenue
 - **Most Used Payment:** Credit Card (78% of orders)
 - **Repeat Customer Rate:** 3.12%
